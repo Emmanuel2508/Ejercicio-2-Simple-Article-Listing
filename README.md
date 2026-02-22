@@ -22,8 +22,8 @@ con flexbox.
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [LINK](http://yomidev.github.io/newsletter/)
+Repositorio en GitHub: https://github.com/Emmanuel2508/Ejercicio-2-Simple-Article-Listing
+Deploy: https://emmanuel2508.github.io/Ejercicio-2-Simple-Article-Listing/
 ---
 
 ## 📝 Reflexión
